@@ -1,0 +1,9 @@
+/node_modules
+/.vscode
+node_modules
+.DS_Store
+dist
+app
+/dist
+/app
+*.local
