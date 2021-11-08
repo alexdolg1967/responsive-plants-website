@@ -2,4 +2,4 @@
 
 Пример моей верстки
 
-Посмотреть можно здесь -
+Посмотреть можно здесь - https://alexdolg1967.github.io/responsive-plants-website/
