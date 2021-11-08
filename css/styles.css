@@ -93,7 +93,7 @@
 }
 
 .show-menu {
-  right: 0;
+  right: 0!important;
 }
 
 .scroll-header {
@@ -107,7 +107,7 @@
 }
 
 .active-link::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -.5rem;
   left: 0;
